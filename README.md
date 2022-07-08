@@ -1,2 +1,4 @@
 # Servlet-Programming
-JAVA Servelet program to invoke basic html files
+JAVA Servelet program
+
+
